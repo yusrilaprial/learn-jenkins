@@ -12,7 +12,7 @@ Learn Automation Server with Jenkins
 ## Setup
 
 - Install Git on Server: `apt-get install git`
-- Install Java on Server: `apt install openjdk-17-jdk-headless`
+- Install Java on Server: `apt install openjdk-21-jdk`
 - Install Jenkins on Server:
   1. go to: https://www.jenkins.io/download/
   2. copy .war link: https://get.jenkins.io/war-stable/2.504.3/jenkins.war
